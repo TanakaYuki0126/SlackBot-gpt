@@ -3,7 +3,8 @@
     "strict": true,
     "target": "ES6",
     "module": "ESNext",
-    "moduleResolution": "Node"
+    "moduleResolution": "Node",
+    "types": ["node"]
   },
   "exclude": ["./node_modules"]
 }
